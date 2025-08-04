@@ -1,0 +1,1 @@
+Welcome to the Type Tester Game. In this Python-driven CLI game, you are able to test your typing speed. As a player, you are provided with a series of sentances to test your typing speed and improve your WPM with each attempt. Enjoy!
