@@ -1,3 +1,5 @@
+# WPM Type Tester
+
 Welcome to the WPM Typing Tester Game. To start simply run the python script "python3 project.py"
 in the terminal. At the beginning of the game, press any key to start playing. From there, you will
 be shown a random message which you must type out wihtout any errors while you words per minute is
